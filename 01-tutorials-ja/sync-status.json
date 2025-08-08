@@ -1,0 +1,229 @@
+{
+  "last_sync_check": "2025-08-08T04:59:59.747557",
+  "original_path": "../01-tutorials",
+  "sync_status": {
+    "README.md": {
+      "original_hash": "09549261bb0a04e03f91cc3b4e7ce9a4",
+      "original_modified": "2025-08-08T04:58:47.100311",
+      "needs_update": false
+    },
+    "01-fundamentals/README.md": {
+      "original_hash": "a42c1a5b705a13f3a71d73b5f8032750",
+      "original_modified": "2025-08-08T03:47:17.641841",
+      "needs_update": false
+    },
+    "02-multi-agent-systems/README.md": {
+      "original_hash": "01ccac50957d5de35df42566a0ded414",
+      "original_modified": "2025-08-08T03:47:17.645841",
+      "needs_update": false
+    },
+    "02-multi-agent-systems/03-graph-agent/README.md": {
+      "original_hash": "2ec3834cb66917cbed3399fd24332bef",
+      "original_modified": "2025-08-08T03:47:17.644339",
+      "needs_update": false
+    },
+    "02-multi-agent-systems/03-graph-agent/graph.ipynb": {
+      "original_hash": "c02a7e9bc3efcc347259cc44d1ec39f5",
+      "original_modified": "2025-08-08T03:47:17.644700",
+      "needs_update": false
+    },
+    "02-multi-agent-systems/01-agent-as-tool/agents-as-tools-interleaved.ipynb": {
+      "original_hash": "54ef9cbc39f6d6b8b5db7b47d7c39580",
+      "original_modified": "2025-08-08T03:47:17.642841",
+      "needs_update": false
+    },
+    "02-multi-agent-systems/01-agent-as-tool/agent-as-tools.ipynb": {
+      "original_hash": "523925cfa0ac91434a252feeea77731a",
+      "original_modified": "2025-08-08T03:47:17.642726",
+      "needs_update": false
+    },
+    "02-multi-agent-systems/02-swarm-agent/README.md": {
+      "original_hash": "1f5781e54aaad53754fc7f22c9d0cee7",
+      "original_modified": "2025-08-08T03:47:17.643841",
+      "needs_update": false
+    },
+    "02-multi-agent-systems/02-swarm-agent/swarm.ipynb": {
+      "original_hash": "f33fcc7f3b3fbc035ad05418aeaae06a",
+      "original_modified": "2025-08-08T03:47:17.644339",
+      "needs_update": false
+    },
+    "01-fundamentals/06-guardrail-integration/customer_profiles.py": {
+      "original_hash": "7ed7f63cfa37ce535ec495f16bfd3d0f",
+      "original_modified": "2025-08-08T03:47:17.632439",
+      "needs_update": false
+    },
+    "01-fundamentals/06-guardrail-integration/customer_profile_tools.py": {
+      "original_hash": "ee6259332365285b997585efc8f11b64",
+      "original_modified": "2025-08-08T03:47:17.632439",
+      "needs_update": false
+    },
+    "01-fundamentals/06-guardrail-integration/bedrock_guardrails_sample.ipynb": {
+      "original_hash": "a3e8395e5fa6effc6529d475c65aac66",
+      "original_modified": "2025-08-08T03:47:17.631840",
+      "needs_update": false
+    },
+    "01-fundamentals/03-connecting-with-aws-services/connecting-with-aws-services.ipynb": {
+      "original_hash": "65524a508c3e1744b4a58182b59f2243",
+      "original_modified": "2025-08-08T03:47:17.619360",
+      "needs_update": false
+    },
+    "01-fundamentals/04-tools/README.md": {
+      "original_hash": "8c0e5011278d2010c631f4d13dd71366",
+      "original_modified": "2025-08-08T03:47:17.629840",
+      "needs_update": false
+    },
+    "01-fundamentals/05-advance-processing-agent-response/advanced_processing_agent_response.ipynb": {
+      "original_hash": "cea1b35861c4627b8cdabed14d433f90",
+      "original_modified": "2025-08-08T03:47:17.629840",
+      "needs_update": false
+    },
+    "01-fundamentals/07-memory-persistent-agents/personal_agent_with_memory.ipynb": {
+      "original_hash": "4ffbad236ad3acdb126c47d7828a71cd",
+      "original_modified": "2025-08-08T03:47:17.636841",
+      "needs_update": false
+    },
+    "01-fundamentals/07-memory-persistent-agents/README.md": {
+      "original_hash": "d6d8772866d5e7be13be0b8d6ce968ae",
+      "original_modified": "2025-08-08T03:47:17.633841",
+      "needs_update": false
+    },
+    "01-fundamentals/07-memory-persistent-agents/personal_agent_with_memory.py": {
+      "original_hash": "1dd818392604ca7c00dbd44af4f426a5",
+      "original_modified": "2025-08-08T03:47:17.636841",
+      "needs_update": false
+    },
+    "01-fundamentals/02-model-providers/README.md": {
+      "original_hash": "0be6df0fc9671b2ef2fac07a081ebad3",
+      "original_modified": "2025-08-08T03:47:17.618840",
+      "needs_update": false
+    },
+    "01-fundamentals/01-first-agent/README.md": {
+      "original_hash": "810696f86c675ea5b719d9536676856a",
+      "original_modified": "2025-08-08T03:47:17.613164",
+      "needs_update": false
+    },
+    "01-fundamentals/01-first-agent/01-first-agent.ipynb": {
+      "original_hash": "4523068c112040fa45634ac98aed1eee",
+      "original_modified": "2025-08-08T03:47:17.612941",
+      "needs_update": false
+    },
+    "01-fundamentals/08-observability-and-evaluation/get_booking_details.py": {
+      "original_hash": "b23d376b0b448da7454b8e67a5ede19c",
+      "original_modified": "2025-08-08T03:47:17.638234",
+      "needs_update": false
+    },
+    "01-fundamentals/08-observability-and-evaluation/delete_booking.py": {
+      "original_hash": "8d80a7744427c19ce56da6688abbfdb4",
+      "original_modified": "2025-08-08T03:47:17.638234",
+      "needs_update": false
+    },
+    "01-fundamentals/08-observability-and-evaluation/Observability-and-Evaluation-sample.ipynb": {
+      "original_hash": "5556f6d2d1272a0e03ad3241aec04cfc",
+      "original_modified": "2025-08-08T03:47:17.637841",
+      "needs_update": false
+    },
+    "01-fundamentals/08-observability-and-evaluation/create_booking.py": {
+      "original_hash": "3d59a4afd6295cf76cf1038553e06930",
+      "original_modified": "2025-08-08T03:47:17.638234",
+      "needs_update": false
+    },
+    "01-fundamentals/08-observability-and-evaluation/prereqs/knowledge_base.py": {
+      "original_hash": "7b55925412114e2061d0891874b834ef",
+      "original_modified": "2025-08-08T03:47:17.641841",
+      "needs_update": false
+    },
+    "01-fundamentals/08-observability-and-evaluation/prereqs/dynamodb.py": {
+      "original_hash": "5a2dccab8f7a96abd542a15a039e206c",
+      "original_modified": "2025-08-08T03:47:17.640841",
+      "needs_update": false
+    },
+    "01-fundamentals/01-first-agent/02-simple-interactive-usecase/README.md": {
+      "original_hash": "e42855ba751eab1d40efc5ddf3989dfe",
+      "original_modified": "2025-08-08T03:47:17.613105",
+      "needs_update": false
+    },
+    "01-fundamentals/01-first-agent/02-simple-interactive-usecase/recipe_bot.py": {
+      "original_hash": "27fc2765ba4524ee943c0957683f37e9",
+      "original_modified": "2025-08-08T03:47:17.613164",
+      "needs_update": false
+    },
+    "01-fundamentals/02-model-providers/01-ollama-model/ollama_file_ops_agent.ipynb": {
+      "original_hash": "7be745159cb84b066ecfb4f67586a97e",
+      "original_modified": "2025-08-08T03:47:17.616840",
+      "needs_update": false
+    },
+    "01-fundamentals/02-model-providers/02-openai-model/openai-litellm-agent.ipynb": {
+      "original_hash": "1b67ccf24d7ebd10bfd32f14f34cd180",
+      "original_modified": "2025-08-08T03:47:17.618840",
+      "needs_update": false
+    },
+    "01-fundamentals/07-memory-persistent-agents/prereqs/opensearch.py": {
+      "original_hash": "f478b4a38e8a68823f5fa7c6f5b3c984",
+      "original_modified": "2025-08-08T03:47:17.637841",
+      "needs_update": false
+    },
+    "01-fundamentals/04-tools/01-using-mcp-tools/mcp-agent.ipynb": {
+      "original_hash": "b5a1baa6b9ab741e57b0de38ed9d8993",
+      "original_modified": "2025-08-08T03:47:17.627841",
+      "needs_update": false
+    },
+    "01-fundamentals/04-tools/02-custom-tools/custom-tools-with-strands-agents.ipynb": {
+      "original_hash": "5c0784d4741f8c9891c516c8ecd47a96",
+      "original_modified": "2025-08-08T03:47:17.627841",
+      "needs_update": false
+    },
+    "01-fundamentals/03-connecting-with-aws-services/prereqs/knowledge_base.py": {
+      "original_hash": "6d3c7bb25149cfe3a4a64e6cf2437382",
+      "original_modified": "2025-08-08T03:47:17.622840",
+      "needs_update": false
+    },
+    "01-fundamentals/03-connecting-with-aws-services/prereqs/dynamodb.py": {
+      "original_hash": "ddfa4338134e6d2c6c7707b04dc92812",
+      "original_modified": "2025-08-08T03:47:17.620840",
+      "needs_update": false
+    },
+    "03-deployment/01-lambda-deployment/deploy-agent.ipynb": {
+      "original_hash": "2a0d3f7e6a96dd28426caf11e64c2cba",
+      "original_modified": "2025-08-08T03:47:17.647116",
+      "needs_update": false
+    },
+    "03-deployment/02-fargate-deployment/deploy-agent.ipynb": {
+      "original_hash": "54d1a05639604d617f0f874567beb67c",
+      "original_modified": "2025-08-08T03:47:17.649584",
+      "needs_update": false
+    },
+    "03-deployment/02-fargate-deployment/prereqs/knowledge_base.py": {
+      "original_hash": "6d3c7bb25149cfe3a4a64e6cf2437382",
+      "original_modified": "2025-08-08T03:47:17.650841",
+      "needs_update": false
+    },
+    "03-deployment/02-fargate-deployment/prereqs/dynamodb.py": {
+      "original_hash": "ddfa4338134e6d2c6c7707b04dc92812",
+      "original_modified": "2025-08-08T03:47:17.649969",
+      "needs_update": false
+    },
+    "03-deployment/02-fargate-deployment/docker/app/__init__.py": {
+      "original_hash": "d41d8cd98f00b204e9800998ecf8427e",
+      "original_modified": "2025-08-08T03:47:17.649969",
+      "needs_update": false
+    },
+    "03-deployment/01-lambda-deployment/prereqs/knowledge_base.py": {
+      "original_hash": "6d3c7bb25149cfe3a4a64e6cf2437382",
+      "original_modified": "2025-08-08T03:47:17.647841",
+      "needs_update": false
+    },
+    "03-deployment/01-lambda-deployment/prereqs/dynamodb.py": {
+      "original_hash": "ddfa4338134e6d2c6c7707b04dc92812",
+      "original_modified": "2025-08-08T03:47:17.647116",
+      "needs_update": false
+    },
+    "test-new-file.md": {
+      "original_hash": "2d6e4c3fad788fdc6ac5ab449da51ebe",
+      "original_modified": "2025-08-08T04:59:21.243853",
+      "needs_update": true
+    }
+  },
+  "created_date": "2024-08-08T04:40:00Z",
+  "version": "1.0",
+  "notes": "初期セットアップ時に作成。まだ翻訳作業は開始されていません。"
+}
